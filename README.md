@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&center=true&width=800&lines=こんにちは、私のプロフィールへようこそ！;データサイエンスを学んでいます。">
+</p>
 
-<!--
-**Fuga420/FUGA420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn,plotly,git,vscode,docker">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 はじめまして
+
+機械学習と時系列解析を研究しています。
+

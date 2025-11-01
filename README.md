@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn,plotly,git,vscode,docker">
+  <img src="[https://skillicons.dev/icons?i=py,pytorch,scikitlearn,plotly,git,vscode,docker](https://skillicons.dev/icons?i=py,r,sklearn,seaborn,statsmodels,git,docker,vscode)">
 </p>
 
 ---

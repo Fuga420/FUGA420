@@ -18,8 +18,8 @@
 はじめまして。
 ご覧いただきありがとうございます。
 
-* **Affiliation / Research:** 中央大学大学院 理工学研究科で、機械学習と時系列解析を研究しています。
-* **Interests:** データ分析
+* **Affiliation / Research:** I'm a graduate student at the Graduate School of Science and Engineering, Chuo University, researching Machine Learning and Time Series Analysis.
+* **Interests:** Data Analysis
 * **Location:** ：Tokyo, Japan
-* **Hobbies:** ウイスキー, USラップ
+* **Hobbies:** Whisky, US Rap
 

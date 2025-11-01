@@ -19,5 +19,5 @@ Hi there! Thank you for visiting my profile.
 * **Affiliation / Research:** I'm a graduate student at the Graduate School of Science and Engineering, Chuo University, researching Machine Learning and Time Series Analysis.
 * **Interests:** Data Analysis
 * **Location:** Tokyo, Japan
-* **Hobbies:** Whisky, US Rap
+* **Hobbies:** Whisky, HIPHOP
 

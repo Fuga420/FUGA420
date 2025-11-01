@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&center=true&width=800&lines=Hello+and+welcome+to+my+profile.;I+am+studying+data+science.">
 </p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,sklearn,seaborn,statsmodels,git,docker,vscode">
 </p>

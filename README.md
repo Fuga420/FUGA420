@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&center=true&width=800&lines=こんにちは、私のプロフィールへようこそ。;データサイエンスを学んでいます。">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&center=true&width=800&lines=Hello and welcome to my profile. I am studying data science.">
 </p>
 
 <p align="center">
@@ -15,11 +15,10 @@
 
 ### 👤 About Me
 
-はじめまして。
-ご覧いただきありがとうございます。
+Hi there! Thank you for visiting my profile.
 
 * **Affiliation / Research:** I'm a graduate student at the Graduate School of Science and Engineering, Chuo University, researching Machine Learning and Time Series Analysis.
 * **Interests:** Data Analysis
-* **Location:** ：Tokyo, Japan
+* **Location:** Tokyo, Japan
 * **Hobbies:** Whisky, US Rap
 
